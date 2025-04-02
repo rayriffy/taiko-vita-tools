@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l7c", "l7c\l7c.csproj", "{4F7F494C-00DE-47AA-8729-3465E1CDC905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "txp", "txp\txp.csproj", "{439DC6E0-7564-47BC-AA47-F978529C385B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compression", "compression\compression.csproj", "{EAFBAA40-45AC-47CC-994C-BFC4C046FB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7F494C-00DE-47AA-8729-3465E1CDC905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7F494C-00DE-47AA-8729-3465E1CDC905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7F494C-00DE-47AA-8729-3465E1CDC905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7F494C-00DE-47AA-8729-3465E1CDC905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439DC6E0-7564-47BC-AA47-F978529C385B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439DC6E0-7564-47BC-AA47-F978529C385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439DC6E0-7564-47BC-AA47-F978529C385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439DC6E0-7564-47BC-AA47-F978529C385B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFBAA40-45AC-47CC-994C-BFC4C046FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFBAA40-45AC-47CC-994C-BFC4C046FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFBAA40-45AC-47CC-994C-BFC4C046FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFBAA40-45AC-47CC-994C-BFC4C046FB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
